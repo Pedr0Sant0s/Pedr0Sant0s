@@ -9,6 +9,10 @@
   <img align="center" alt="PEDRO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
+### Contato
+- 📧 [pedro.158h@gmail.com](mailto:pedro.158h@gmail.com)
+- 🌐 [GitHub](https://github.com/Pedr0Sant0s)
+- 📍 Portugal, Lisboa
 
 <!--
 **Pedr0Sant0s/Pedr0Sant0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
