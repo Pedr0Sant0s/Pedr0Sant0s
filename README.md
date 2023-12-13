@@ -1,4 +1,15 @@
-### Olá, eu sou Pedro Santo
+### Resumo
+
+
+Sou um Estudante de Análise e Desenvolvimento de sistemas, dedicando-me a me especializar no desenvolvimento Full-Stack.
+
+Tenho ampla experiência trabalhando com tecnologias de ponta, incluindo HTML, CSS, JavaScript
+
+Meu objetivo é criar aplicações robustas, resilientes e escaláveis, aderindo a princípios como SOLID, DDD e padrões de design como CQRS, MVVM e Microservices.
+
+Eu sou adepto as melhores práticas de desenvolvimento de software, como Clean Code e Clean Architecture, para garantir que meu código seja simples, facilmente compreensível e otimizado.
+
+Estou sempre em busca de desafios que me permitam aprimorar minhas habilidades e contribuir para projetos bem-sucedidos. Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou saber mais sobre o meu trabalho.
 
 
 <div style="display: inline_block"><br>
