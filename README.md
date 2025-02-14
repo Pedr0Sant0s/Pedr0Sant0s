@@ -1,5 +1,3 @@
-### Resumo
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=45818e&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Pedro+Santos;I'm+23+years+old;I+from+Portugal;technologist+in+systems+analysis+and+development;+Welcome!+:%29)](https://git.io/typing-svg)
